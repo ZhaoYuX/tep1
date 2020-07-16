@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_121"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="zyx/druid-1.0.9.jar"/>
+	<classpathentry kind="lib" path="zyx/mysql-connector-java-5.1.37-bin.jar"/>
+	<classpathentry kind="lib" path="zyx/spring-jdbc-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="zyx/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="zyx/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="zyx/mchange-commons-java-0.2.12.jar"/>
+	<classpathentry kind="lib" path="zyx/spring-beans-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="zyx/spring-core-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="zyx/spring-tx-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
